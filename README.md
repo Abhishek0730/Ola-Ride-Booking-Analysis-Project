@@ -6,6 +6,7 @@ This project focuses on analyzing Ola ride booking data to uncover key insights 
 
 The goal of this project is to simplify raw data into meaningful insights that help understand important metrics such as ride success rate, average ride distance, cancellation patterns, customer ratings, and revenue generated from successful bookings.
 
+
 🎯 Objectives
 
 Clean and structure the ride bookings dataset
@@ -35,6 +36,7 @@ SQL (MySQL) – Data cleaning, transformations & analysis
 Power BI – Reports, dashboards & trend analysis
 
 Excel / CSV – Dataset handling
+
 
 📂 Dataset Description
 
@@ -119,6 +121,7 @@ UPI is one of the most used payment methods
 Incomplete rides highlight operational improvement areas
 
 Loyal customers can be identified for retention strategies
+
 
 ✅ Conclusion
 
